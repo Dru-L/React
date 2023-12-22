@@ -1,0 +1,15 @@
+#root{
+  width: 80%;
+  margin:0 auto;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.box{
+  width: 150px;
+  padding: 5px;
+  margin: 5px 15px;
+}
